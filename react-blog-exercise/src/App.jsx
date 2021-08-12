@@ -1,16 +1,14 @@
-import React from 'react';
-import { Header } from './Header/header';
-import { BlogList } from './BlogList/BlogList';
-import './App.css';
+import React from "react";
+import { Header } from "./Header/Header";
+import { BlogList } from "./BlogList/BlogList";
+import "./App.css";
 
 function App() {
   return (
     <React.Fragment>
-      <Header/>
-      <BlogList/>
-
+      <Header />
+      <BlogList />
     </React.Fragment>
-    
   );
 }
 
