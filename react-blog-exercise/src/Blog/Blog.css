@@ -1,0 +1,17 @@
+.post{
+    margin: 10px;
+    padding-left: 20px;
+    color: white;
+    background-color: #556E79;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.post h2{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.post p {
+    margin-bottom: 15px;
+    font-size: large;
+}
