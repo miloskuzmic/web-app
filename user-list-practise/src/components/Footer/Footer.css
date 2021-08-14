@@ -1,0 +1,11 @@
+footer {
+    background-color: #EC6F75;
+    
+    color: white;
+    
+}
+footer  h1 {
+    font-size: smaller;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}

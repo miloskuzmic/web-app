@@ -1,0 +1,13 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+   display: flex;
+   justify-content: center;
+  
+}
+button {
+    border: none;
+    background-color: #5EBA7D;
+    margin-bottom: 20px;
+}
+
