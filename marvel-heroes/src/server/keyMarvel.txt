@@ -1,0 +1,13 @@
+Hi mirkon377838673!
+
+Here's your personal Marvel Comics API information:
+Your public key
+b84f0bb757b28ebfc93d153cb980b89d
+Your private key
+793fb564e6994cbfd4bbdef91ee5eb57451c56e5
+
+
+http://gateway.marvel.com/v1/public/comics?ts=1&apikey=b84f0bb757b28ebfc93d153cb980b89d&hash=a2c004ddfea0c4a6ca6a76d3bf467fde
+
+
+1793fb564e6994cbfd4bbdef91ee5eb57451c56e5b84f0bb757b28ebfc93d153cb980b89d
